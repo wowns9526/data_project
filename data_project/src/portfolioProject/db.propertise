@@ -1,0 +1,4 @@
+MYSQL_DRIVER=com.mysql.jdbc.Driver
+URL=jdbc:mysql://localhost/universitydb
+userName=root
+password=snrntpa1011!
